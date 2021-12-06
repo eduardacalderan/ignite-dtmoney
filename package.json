@@ -2,7 +2,6 @@
   "name": "control-money",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eduardacalderan.github.io/ignite-reactjs-dtmoney/",
   "dependencies": {
     "axios": "^0.24.0",
     "miragejs": "^0.1.42",
